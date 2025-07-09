@@ -1,0 +1,48 @@
+# Privacy Pi
+
+**Privacy Pi** is a Raspberry Pi–based privacy toolkit developed as a collaborative academic project. It provides DNS-level ad blocking, firewall customization, and secure VPN tunneling to enhance personal internet privacy and security.
+
+---
+
+## 🔧 Features
+
+- 🚫 DNS-based ad and tracker blocking
+- 🔒 Secure VPN routing (WireGuard/OpenVPN)
+- 🔥 Custom firewall rules (UFW/IPTables)
+- 📊 Lightweight network activity logging
+- 🧰 Modular and scriptable setup for Raspberry Pi
+
+---
+
+## 💡 My Contributions
+
+This project was developed as part of a team of 3 students. I personally contributed:
+
+- Configured and automated VPN integration using WireGuard
+- Designed custom IPTables rules for selective traffic blocking
+- Developed shell scripts for automated setup and service control
+- Helped document the architecture and usage flow in the README
+
+---
+
+## 🛠️ Technologies Used
+
+- Raspberry Pi OS (Debian-based)
+- Bash and Python scripting
+- WireGuard/OpenVPN
+- UFW/IPTables
+- Git for version control
+
+---
+
+## 📁 Repository
+
+Original team repo: [github.com/HimuCodes/Privacy-Pi](https://github.com/HimuCodes/Privacy-Pi)
+
+My fork: [github.com/your-username/Privacy-Pi](https://github.com/your-username/Privacy-Pi)
+
+---
+
+## 📚 License
+
+MIT License
